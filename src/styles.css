@@ -1,0 +1,17 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+
+}
+.react-excel {
+  color:'#2c3d63';
+  border-color: blue;
+  border-width: 10px;
+
+    }
+.active-sheet {
+  color: rgb(7, 7, 7);
+
+ 
+}
+
